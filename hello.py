@@ -1,5 +1,5 @@
 # Hello World program
-# Author: Your Name
+# Author: Samuel Kwota
 # Date: 2025-09-17
 
 def main():

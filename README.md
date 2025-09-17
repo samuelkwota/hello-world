@@ -14,4 +14,5 @@ This project also ensures that my development environment, GitHub, and documenta
 ## Execution Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/hello-world.git
+   git clone https://github.com/samuelkwota/hello-world
+2. Youtube link: https://youtu.be/CRnww5ofP1Q
